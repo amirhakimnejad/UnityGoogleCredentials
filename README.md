@@ -17,6 +17,6 @@ Google Credential Manager is only available on Android API 34 and higher, and th
 Because we are using a android feature, you cant test this on editor, you need to build to android device or emulator.
 
 ## Getting Started
-Please check the [Manual](Manual/MANUAL.md) for more information about, how this pluggin works and how to used.
+Please check the [Manual](Manual/MANUAL.md) for more information about how this pluggin works and how to used.
 
 
