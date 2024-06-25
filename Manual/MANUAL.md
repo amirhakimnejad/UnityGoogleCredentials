@@ -38,7 +38,7 @@ You need to setup the object by calling **CredentialManager.SetupOathID([your ID
 
 You can check the **SampleUI.cs** to see a example on how to use the class. A sample scene are included so you can test.
 
-For undurstand more aboute the Credential Manager API, check the documentation.
+For undurstand more aboute the Credential Manager API, check the [documentation](Documentation.md).
 
 ## Google Cloud Oath authentication
 To use the Google Credential Manager, you have to setup the Google Cloud Oauth authentication.
