@@ -1,7 +1,7 @@
 # Manual
 ## Sumary
-- [How this Works?](./MANUAL.md##how-this-works?)
-- [Setting up](./MANUAL.md##setting-up)
+- [How this Works?](./MANUAL.md#how-this-works?)
+- [Setting up](./MANUAL.md#setting-up)
 
 ## How this Works?
 Google Credential Manager libraries are acessable in the Android layer of the application, and Unity let you interact with this layer using [JNI](https://docs.unity3d.com/ScriptReference/AndroidJNI.html), or using the [higher-level API](https://docs.unity3d.com/Manual/android-plugins-java-code-from-c-sharp.html).
