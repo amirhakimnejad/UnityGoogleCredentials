@@ -1,11 +1,11 @@
 # Documentation
 ## Sumary
 - **Class**
-  - [CredentialManager](./Documentation.md#class-credentialManager)
-  - [CredentialEventHandler](./Documentation.md#class-credentialEventHandler)
+  - [CredentialManager](./Documentation.md#class-credentialmanager)
+  - [CredentialEventHandler](./Documentation.md#class-credentialeventhandler)
 - **Struct**
-  - [CredentialUserData](./Documentation.md#struct-credentialUserData)
-  - [CredentialExceptionData](./Documentation.md#credentialExceptionData)
+  - [CredentialUserData](./Documentation.md#struct-credentialuserdata)
+  - [CredentialExceptionData](./Documentation.md#struct-credentialexceptiondata)
   
 ## class CredentialManager
 ### Overview
